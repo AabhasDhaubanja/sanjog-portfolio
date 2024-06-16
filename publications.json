@@ -1,0 +1,47 @@
+{
+  "googleScholarLink": "https://youtube.com",
+  "googleScholarText": "Google Scholar",
+  "publications": [
+    {
+      "title": "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing",
+      "link": "https://facebook.com",
+      "descriptions": [
+        "Zeyan Liu, Zijun Yao, Fengjun Li, Bo Luo",
+        "ACM Conference on Computer and Communications Security (CCS), 2024."
+      ]
+    },
+    {
+      "title": "Title 2",
+      "link": "https://twitter.com",
+      "descriptions": [
+        "description 1",
+        "description 2",
+        "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing"
+      ]
+    },
+    {
+      "title": "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing",
+      "link": "https://facebook.com",
+      "descriptions": [
+        "Zeyan Liu, Zijun Yao, Fengjun Li, Bo Luo",
+        "ACM Conference on Computer and Communications Security (CCS), 2024."
+      ]
+    },
+    {
+      "title": "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing",
+      "link": "https://facebook.com",
+      "descriptions": [
+        "Zeyan Liu, Zijun Yao, Fengjun Li, Bo Luo",
+        "ACM Conference on Computer and Communications Security (CCS), 2024."
+      ]
+    },
+    {
+      "title": "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing",
+      "link": "https://facebook.com",
+      "descriptions": [
+        "Zeyan Liu, Zijun Yao, Fengjun Li, Bo Luo",
+        "ACM Conference on Computer and Communications Security (CCS), 2024."
+      ]
+    }
+  ]
+}
