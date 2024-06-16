@@ -1,0 +1,12 @@
+.home-page-wrapper {
+  width: 100%;
+  height: calc(100svh - 50px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#sanjog-gaihre-title {
+  text-transform: uppercase;
+  letter-spacing: 1em;
+}
